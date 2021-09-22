@@ -1,0 +1,31 @@
+
+ *** Questions List ***
+
+ Q.1: Satuan, satuan apa yang menguasai negara?
+       option 0 : Kilogram
+       option 1 : Sentimeter
+       option 2 : Megawatt
+       option 3 : Joule
+
+ Q.2: Kabel apa yang mudah putus?
+       option 0 : Kabel bawah laut Indihome
+       option 1 : Kabel cintaku padamu
+       option 2 : Semua macam kabel
+       option 3 : Kabel boongan
+
+Q.3: Jokowi akan menjadi presiden selama 3 periode.
+       option 0 : TRUE
+       option 1 : FALSE
+
+
+Q.4: Bang, ini apa jawabannya bang?
+      option 0 : Yo ndak tau kok tanya saya
+      option 1 : Ya tanya bapak jangan tanya saya
+      option 2 : Kok kamu tanya begitu? Siapa yang suruh?
+      option 3 : Jawabannya ada di ujung langit
+
+Q.5: What is 2 + 2?
+      option 0 : 4
+      option 1 : -1
+      option 2 : thas 3
+      option 3 : quick maths

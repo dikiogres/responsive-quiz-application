@@ -1,0 +1,40 @@
+
+ q-6
+ Siapakah nama tokoh dibawah ini?
+ Deddy Cahyadi
+ Gayus Tambunan
+ Noordin M Top
+ Sayuti Melik
+ ans - Deddy Cahyadi
+
+ q-7
+ Apakah benar? :'(
+ Ya
+ Mungkin saja
+ Tidak
+ Busit Loe
+ ans - Ya
+
+ q-8
+ Dimanakah foto ini diambil?
+ Bulan
+ Perempatan Mangli
+ Surabaya
+ Jatiroto
+ ans - jatiroto
+
+ q-9
+ What does "GUI" stands for?
+ Global user index
+ Graphical user interface
+ golu use iphone
+ Genshin U Impact
+ ans - Graphical user interface
+
+ q-10
+ Mark Zuckerberg is the owner of  ?
+ Warung makan Cak Har
+ Edi Lorpong
+ SMAN 1 Jember
+ Facebook
+ ans - Edi Lorpong
